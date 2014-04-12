@@ -67,6 +67,9 @@
 #with them, which is why i went this route with the control script. Your
 #mileage may vary.
 #
+#note: if you are getting gibberish out of xdotool/xte typing the timestamp
+#try disabling/removing ibus if it is installed
+#
 #I personally set it up like this:
 #F1 = ~/vlccontrol.py jogbackward
 #F2 = ~/vlccontrol.py pause 
